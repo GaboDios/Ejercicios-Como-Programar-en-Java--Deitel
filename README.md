@@ -19,3 +19,6 @@ verdadero
 c)Java considera que las variables numero y NuMeRo son idénticas.
 FALSO Java distingue las variables con mayusculas como variables distintas.
 d) El operador residuo (%) puede utilizarse solamente con operandos enteros
+FALSO El operador residuo puede utilizarse tanto con enteros como con operandos de punto flotante.
+e)Los operadores aritméticos *, /, %, + y- tienen todos el mismo nivel de precedencia?
+FALSO *, /, % tienen el mismo nivel de precedencia, pero + y- están un nivel más abajo
