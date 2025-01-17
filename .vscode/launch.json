@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "PruebaCuenta",
+            "request": "launch",
+            "mainClass": "Capitulo3.PruebaCuenta",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "PruebaLibroCalificaciones",
+            "request": "launch",
+            "mainClass": "Capitulo3.PruebaLibroCalificaciones",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicio2",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio214",
+            "request": "launch",
+            "mainClass": "Ejercicio214",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio215",
+            "request": "launch",
+            "mainClass": "Ejercicio215",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio216",
+            "request": "launch",
+            "mainClass": "Ejercicio216",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio217",
+            "request": "launch",
+            "mainClass": "Ejercicio217",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio218",
+            "request": "launch",
+            "mainClass": "Ejercicio218",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio224",
+            "request": "launch",
+            "mainClass": "Ejercicio224",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio225",
+            "request": "launch",
+            "mainClass": "Ejercicio225",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio226",
+            "request": "launch",
+            "mainClass": "Ejercicio226",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio227",
+            "request": "launch",
+            "mainClass": "Ejercicio227",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio228",
+            "request": "launch",
+            "mainClass": "Ejercicio228",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio229",
+            "request": "launch",
+            "mainClass": "Ejercicio229",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio230",
+            "request": "launch",
+            "mainClass": "Ejercicio230",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio231",
+            "request": "launch",
+            "mainClass": "Ejercicio231",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio232",
+            "request": "launch",
+            "mainClass": "Ejercicio232",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio26",
+            "request": "launch",
+            "mainClass": "Ejercicio26",
+            "projectName": "Ejercicios-Como-Programar-en-Java--Deitel_8d41600c"
+        }
+    ]
+}
